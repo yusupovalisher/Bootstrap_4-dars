@@ -1,0 +1,12 @@
+.jumbotron{
+    width: 600px;
+    height: 400px;
+    margin-left: 20%;
+    background-color: deepskyblue;
+}
+.tt{
+    color: white;
+}
+.btn{
+    margin-left: 40%;
+}

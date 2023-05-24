@@ -1,0 +1,14 @@
+body {
+    background-color: #af3636;
+}
+.jumbotron{
+    width: 370px;
+    height: 418px;
+    margin: 200px auto !important;
+}
+h3{
+    letter-spacing: 2px;
+}
+.bx{
+    font-size: 1.5rem;
+}
